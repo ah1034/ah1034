@@ -2,6 +2,9 @@
 
 - My name is Ava (She/Her)
 - I'm currently studying Computational Mathematics at RIT
+- Mostly I use this account for school stuff that way I can keep my school work seperate from my personal projects but I may add some personal projects to here if they intersect with something I'm working on for class.
+- Currently I am working on customizing my phones keyboard because I found that many foss boards don't have nearly as much functionality as many nonFOSS boards.
+  - I want to add a morse code board to my phones keyboard so that I can practice my morse code    
 - feel free to reach out to me on discord (cainisdelta) or via email (ah1034@rit.edu) or even through matrix (@cainisdelta:matrix.org)
 
 <!--
