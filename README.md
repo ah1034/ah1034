@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- My name is Ava (She/Her)
+- I'm currently studying Computational Mathematics at RIT
+- feel free to reach out to me on discord (cainisdelta) or via email (ah1034@rit.edu) or even through matrix (@cainisdelta:matrix.org)
+
 <!--
 **ah1034/ah1034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
